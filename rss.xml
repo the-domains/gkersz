@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?><rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
+    <channel>
+        <title><![CDATA[Gaja Kersz Photography]]></title>
+        <description><![CDATA[Gaja Kersz Photography]]></description>
+        <link>http://github.com/dylang/node-rss</link>
+        <generator>The Grid</generator>
+        <lastBuildDate>Fri, 10 Jun 2016 18:13:43 GMT</lastBuildDate>
+        <atom:link href="undefinedrss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[gaja kersz]]></title>
+            <description><![CDATA[<article><h1>gaja kersz</h1><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/bee5dd35cdab8313f3e9721b0a4e0da6cd73e4a9.jpg"></article>]]></description>
+            <link>http://if-you-leave.tumblr.com/post/17627226595/gaja-kersz</link>
+            <guid isPermaLink="false">091f1200-a52a-4884-8fbb-66278a16977b</guid>
+            <pubDate>Fri, 10 Jun 2016 18:13:43 GMT</pubDate>
+        </item>
+    </channel>
+</rss>
