@@ -6,8 +6,8 @@ isBasedOnUrl: 'https://www.flickr.com/photos/gajakersz/12887249645/'
 inLanguage: null
 keywords: []
 description: Untitled
-datePublished: '2016-06-10T20:02:17.712Z'
-dateModified: '2016-06-10T20:01:00.016Z'
+datePublished: '2016-06-10T20:23:19.398Z'
+dateModified: '2016-06-10T20:23:09.123Z'
 author:
   - name: Gaja Kersz
     url: 'https://www.flickr.com/photos/gajakersz/'
@@ -20,6 +20,7 @@ app_links:
     app_name: Flickr
     app_store_id: '328407587'
 title: If You Leave
+sourcePath: _posts/2016-06-10-if-you-leave.md
 authors: []
 publisher:
   name: Flickr
@@ -27,7 +28,6 @@ publisher:
   url: 'https://www.flickr.com/'
   favicon: 'https://www.flickr.com/favicon.ico'
 starred: false
-sourcePath: _posts/2016-06-10-if-you-leave.md
 _type: Photograph
 _context: 'http://schema.org'
 
