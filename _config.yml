@@ -1,3 +1,7 @@
+name: GKersz
+favicon: null
+layout_spectrum: 0.4426523
+typography_spectrum: 0.1869773
 collections:
   - index:
       path: /
@@ -10,17 +14,28 @@ collections:
       path: /rss.xml
       format: rss
       number: 10
+title: 'Gaja Kersz '
+cta:
+  domain: null
+  bucket: null
+  version: null
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+opengraph:
+  image: null
+  type: null
+  appId: null
 color:
-  saturation: 0.1571087
-  brandStrength: 0.4808841
-  lightness: 0.7867383
   brandColors:
     - '#FFFFFF'
     - '#171B1E'
     - '#90C4F7'
     - '#C7907B'
     - '#374B56'
+  brandStrength: 0.4808841
+  lightness: 0.7867383
+  saturation: 0.1571087
   rhythmicContrast: 0.8679808
-typography_spectrum: 0.1869773
-layout_spectrum: 0.4426523
-name: GKersz
+purpose: []
