@@ -10,17 +10,17 @@ collections:
       path: /rss.xml
       format: rss
       number: 10
+typography_spectrum: 0.1869773
 color:
-  saturation: 0
+  saturation: 1
   brandStrength: 0.4916368
-  lightness: 0.4761051
+  lightness: 0
   brandColors:
     - '#32332E'
     - '#BDBBAE'
     - '#909696'
     - '#FFFFFF'
     - '#FE9449'
-  rhythmicContrast: 0.4772998
-typography_spectrum: 0.1869773
+  rhythmicContrast: 1
 layout_spectrum: 0.4426523
 name: GKersz
