@@ -1,0 +1,14 @@
+layout_spectrum: 0
+color:
+  saturation: 0.7258064
+  lightness: 0.7258064
+  brandStrength: 0.7357303
+  brandColors:
+    - '#060606'
+    - '#FFFFFF'
+    - '#84817A'
+    - '#DCD5CB'
+    - '#5D5E59'
+  rhythmicContrast: 0.750896
+typography_spectrum: 0.1869773
+name: GKersz
