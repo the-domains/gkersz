@@ -1,7 +1,7 @@
 name: GKersz
 favicon: null
-layout_spectrum: 0
-typography_spectrum: 0.82241
+layout_spectrum: 0.48023
+typography_spectrum: 0.06106
 collections:
   - index:
       path: /
