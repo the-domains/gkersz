@@ -4,23 +4,23 @@ collections:
       number: 15
       paginate: true
       navigable: true
-    permalink:
-      path: '/:title/'
     feed:
       path: /rss.xml
       format: rss
       number: 10
-typography_spectrum: 0.1869773
+    permalink:
+      path: '/:title/'
 color:
   saturation: 0.4999999
-  brandStrength: 0.4749103
+  brandStrength: 0
   lightness: 0.5131421
   brandColors:
+    - '#25201C'
+    - '#99867F'
+    - '#CDBBAF'
+    - '#6C5D56'
     - '#FFFFFF'
-    - '#BFD7DF'
-    - '#657C8B'
-    - '#000000'
-    - '#D08379'
   rhythmicContrast: 0.4844683
+typography_spectrum: 0.1869773
 layout_spectrum: 0.4426523
 name: GKersz
