@@ -4,7 +4,7 @@
         <description><![CDATA[Gaja Kersz Contemporary Photography]]></description>
         <link>https://thegrid.ai/gkersz/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Fri, 10 Jun 2016 20:39:46 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 10 Jun 2016 20:39:47 GMT</lastBuildDate>
         <atom:link href="https://thegrid.ai/gkersz/rss.xml" rel="self" type="application/rss+xml"/>
         <item>
             <title><![CDATA[gaja kersz]]></title>
@@ -12,6 +12,13 @@
             <link>http://if-you-leave.tumblr.com/post/17627226595/gaja-kersz</link>
             <guid isPermaLink="false">091f1200-a52a-4884-8fbb-66278a16977b</guid>
             <pubDate>Fri, 10 Jun 2016 20:27:37 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[No title]]></title>
+            <description><![CDATA[<img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/6a72b4af-58b1-4376-ab15-1aee00ff7e9e.jpg">]]></description>
+            <link>https://thegrid.ai/gkersz/ac3be42d-28c7-41af-9186-2864707ed72d/index.html</link>
+            <guid isPermaLink="false">ac3be42d-28c7-41af-9186-2864707ed72d</guid>
+            <pubDate>Fri, 10 Jun 2016 20:39:13 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[No title]]></title>
@@ -67,13 +74,6 @@
             <description><![CDATA[<article><h1>N.</h1><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/91783a904c86bcee3a0cbe42f58e49f2ae14cc20.jpg"></article>]]></description>
             <link>https://www.flickr.com/photos/gajakersz/4604009139/</link>
             <guid isPermaLink="false">18621a86-731e-44bd-b2b8-6665ff8bfdcf</guid>
-            <pubDate>Fri, 10 Jun 2016 18:13:43 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Untitled]]></title>
-            <description><![CDATA[<article><h1>Untitled</h1><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/967b01ef6c15f4a5192ed0da7c18501f095b7ca4.jpg"></article>]]></description>
-            <link>https://www.flickr.com/photos/gajakersz/4793541980/</link>
-            <guid isPermaLink="false">0a90fdff-5ddb-420d-8a05-37a8216a8a17</guid>
             <pubDate>Fri, 10 Jun 2016 18:13:43 GMT</pubDate>
         </item>
     </channel>
