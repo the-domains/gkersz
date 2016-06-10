@@ -1,28 +1,30 @@
 ---
+inFeed: true
+hasPage: false
+inNav: false
+isBasedOnUrl: 'http://if-you-leave.tumblr.com/post/17627226595/gaja-kersz'
+inLanguage: null
+keywords: []
+description: ''
+datePublished: '2016-06-10T20:27:37.833Z'
+dateModified: '2016-06-10T20:25:12.113Z'
 author:
   - name: if-you-leave
     url: 'http://if-you-leave.tumblr.com'
     avatar: {}
 related: []
-publisher:
-  url: 'http://tumblr.com'
-  name: Tumblr
-  favicon: 'http://if-you-leave.tumblr.com/favicon.ico'
-  domain: if-you-leave.tumblr.com
-keywords: []
-description: ''
 app_links: []
-isBasedOnUrl: 'http://if-you-leave.tumblr.com/post/17627226595/gaja-kersz'
 title: gaja kersz
-datePublished: '2016-06-10T18:13:43.057Z'
-dateModified: '2016-06-10T18:01:31.309Z'
-starred: false
 sourcePath: _posts/2016-06-10-gaja-kersz.md
-inFeed: true
-hasPage: false
-inNav: false
+authors: []
+publisher:
+  name: Tumblr
+  domain: if-you-leave.tumblr.com
+  url: 'http://tumblr.com'
+  favicon: 'http://if-you-leave.tumblr.com/favicon.ico'
+starred: true
 _context: 'http://schema.org'
 _type: MediaObject
 
 ---
-<article style=""><h1>gaja kersz</h1><img src="http://66.media.tumblr.com/tumblr_lzepdvtKXH1qawpa6o1_500.jpg" /></article>
+<article style=""><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/bee5dd35cdab8313f3e9721b0a4e0da6cd73e4a9.jpg" /></article>
