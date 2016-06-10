@@ -1,6 +1,6 @@
 name: GKersz
 favicon: null
-layout_spectrum: 0.53039
+layout_spectrum: 0.07459
 typography_spectrum: 0.06106
 collections:
   - index:
@@ -29,11 +29,11 @@ opengraph:
   appId: null
 color:
   brandColors:
-    - '#0f0714'
-    - '#4e7964'
-    - '#3b4e57'
-    - '#522f1b'
-    - '#8e6768'
+    - '#1e2024'
+    - '#d9ba92'
+    - '#f1dbc2'
+    - '#7b7a78'
+    - '#453e3a'
   brandStrength: 0
   lightness: 1
   saturation: 1
