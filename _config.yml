@@ -10,6 +10,7 @@ collections:
       number: 10
     permalink:
       path: '/:title/'
+typography_spectrum: 0.1869773
 color:
   saturation: 0.458184
   brandStrength: 0.7357303
@@ -21,6 +22,5 @@ color:
     - '#FFFFFF'
     - '#FE9449'
   rhythmicContrast: 0.4772998
-typography_spectrum: 0.1869773
-layout_spectrum: 0
+layout_spectrum: 0.4426523
 name: GKersz
