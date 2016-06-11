@@ -5,17 +5,12 @@ inNav: false
 isBasedOnUrl: 'https://www.flickr.com/photos/gajakersz/6176149750/'
 inLanguage: null
 keywords: []
-description: >-
-  Pirate cave was featured in 16hours which was created to motivate its readers
-  to go beyond only reflecting on words of inspiration, but to also live by
-  them. To get up, go out and start exploring. We believe theres inspiration
-  everywhere and in everything, you just need to go out and find it.
-datePublished: '2016-06-11T21:17:26.760Z'
-dateModified: '2016-06-11T21:01:54.969Z'
+description: 'Gaja in  16 March 2012, #4 “We Are Wild”'
+datePublished: '2016-06-11T22:55:54.802Z'
+dateModified: '2016-06-11T22:50:26.953Z'
 author:
-  - name: Gaja Kersz
-    url: 'https://www.flickr.com/photos/gajakersz/'
-    avatar: {}
+  - name: ''
+    url: ''
 related: []
 app_links:
   - url: 'flickr://flickr.com/photos/gajakersz/6176149750'
@@ -23,7 +18,8 @@ app_links:
     namespace: ai
     app_name: Flickr
     app_store_id: '328407587'
-title: 'Pirate cave '
+title: ''
+sourcePath: _posts/2016-06-11-pirate-cave.md
 authors: []
 publisher:
   name: Flickr
@@ -31,10 +27,9 @@ publisher:
   url: 'https://www.flickr.com/'
   favicon: 'https://www.flickr.com/favicon.ico'
 starred: false
-sourcePath: _posts/2016-06-11-pirate-cave.md
 _type: Photograph
 _context: 'http://schema.org'
 
 ---
-![Pirate cave was featured in 16hours which was created to motivate its readers to go beyond only reflecting on words of inspiration, but to also live by them. To get up, go out and start exploring. We believe theres inspiration everywhere and in everything, you just need to go out and find it.](https://s3-us-west-2.amazonaws.com/the-grid-img/p/f965f2f2ff0959dbc87719b87859c0e5a93128f3.jpg)
 ![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/7f431a37-d84f-411e-90db-e686554989e2.jpg)
+![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/8992ea46-5ccf-4126-a0b8-3f39713fbb1f.jpg)
