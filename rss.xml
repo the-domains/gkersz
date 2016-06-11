@@ -4,8 +4,15 @@
         <description><![CDATA[Gaja Kersz Contemporary Photography]]></description>
         <link>https://thegrid.ai/gkersz/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Sat, 11 Jun 2016 21:15:03 GMT</lastBuildDate>
+        <lastBuildDate>Sat, 11 Jun 2016 21:15:06 GMT</lastBuildDate>
         <atom:link href="https://thegrid.ai/gkersz/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[No title]]></title>
+            <description><![CDATA[<img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/5fd9ee3c-4957-4979-b4d3-e0badbe12b94.jpg">]]></description>
+            <link>https://thegrid.ai/gkersz/c6d555f2-5837-475b-8bc5-8162137986eb/index.html</link>
+            <guid isPermaLink="false">c6d555f2-5837-475b-8bc5-8162137986eb</guid>
+            <pubDate>Sat, 11 Jun 2016 21:15:02 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[No title]]></title>
             <description><![CDATA[<img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/f945c65e-da07-46a7-84e6-e26dee1e2bd9.jpg">]]></description>
@@ -68,13 +75,6 @@
             <link>https://thegrid.ai/gkersz/946a15eb-0cbe-408e-b0a2-8ebcd9681029/index.html</link>
             <guid isPermaLink="false">946a15eb-0cbe-408e-b0a2-8ebcd9681029</guid>
             <pubDate>Sat, 11 Jun 2016 21:10:03 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[No title]]></title>
-            <description><![CDATA[<img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/6d774936-205c-4c8d-8b86-277fe4948f5a.jpg">]]></description>
-            <link>https://thegrid.ai/gkersz/c47093a3-2f9e-43b6-aaa5-447e7118456a/index.html</link>
-            <guid isPermaLink="false">c47093a3-2f9e-43b6-aaa5-447e7118456a</guid>
-            <pubDate>Sat, 11 Jun 2016 21:08:35 GMT</pubDate>
         </item>
     </channel>
 </rss>
