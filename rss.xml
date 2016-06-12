@@ -4,8 +4,15 @@
         <description><![CDATA[Gaja Kersz Contemporary Photography]]></description>
         <link>https://thegrid.ai/gkersz/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Sun, 12 Jun 2016 12:09:51 GMT</lastBuildDate>
+        <lastBuildDate>Sun, 12 Jun 2016 12:10:00 GMT</lastBuildDate>
         <atom:link href="https://thegrid.ai/gkersz/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[No title]]></title>
+            <description><![CDATA[<img src="https://imgflo.herokuapp.com/graph/vahj1ThiexotieMo/e4a8d0cbeeb0a215867c6dc6cb84cbe0/croprotate.jpg?cropheight=1271&cropwidth=1895&degrees=0&input=https%3A%2F%2Fthe-grid-user-content.s3-us-west-2.amazonaws.com%2F208a92d5-06f4-4820-bea9-63e2cc28d8a0.jpg&x=0&y=0" alt="" title="">]]></description>
+            <link>https://thegrid.ai/gkersz/5b9f4b36-533e-410e-bfbb-8b2d3c961728/index.html</link>
+            <guid isPermaLink="false">5b9f4b36-533e-410e-bfbb-8b2d3c961728</guid>
+            <pubDate>Sun, 12 Jun 2016 12:09:58 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[No title]]></title>
             <description><![CDATA[<img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/16ad9bf8-cef7-4b51-81a6-671db64437d4.jpg">]]></description>
@@ -68,13 +75,6 @@
             <link>https://thegrid.ai/gkersz/efaf8230-2bf3-44b3-9bbe-70d81823ba80/index.html</link>
             <guid isPermaLink="false">efaf8230-2bf3-44b3-9bbe-70d81823ba80</guid>
             <pubDate>Sun, 12 Jun 2016 12:08:40 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[No title]]></title>
-            <description><![CDATA[<img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/5f361aeb-9de1-43c6-ac33-32373824ecbd.jpg" alt="" title="">]]></description>
-            <link>https://thegrid.ai/gkersz/8453649c-e6c4-427b-abc6-3fec513a4237/index.html</link>
-            <guid isPermaLink="false">8453649c-e6c4-427b-abc6-3fec513a4237</guid>
-            <pubDate>Sun, 12 Jun 2016 12:08:06 GMT</pubDate>
         </item>
     </channel>
 </rss>
