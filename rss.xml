@@ -4,8 +4,15 @@
         <description><![CDATA[Gaja Kersz Contemporary Photography]]></description>
         <link>https://thegrid.ai/gkersz/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Sun, 12 Jun 2016 12:09:22 GMT</lastBuildDate>
+        <lastBuildDate>Sun, 12 Jun 2016 12:09:51 GMT</lastBuildDate>
         <atom:link href="https://thegrid.ai/gkersz/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[No title]]></title>
+            <description><![CDATA[<img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/16ad9bf8-cef7-4b51-81a6-671db64437d4.jpg">]]></description>
+            <link>https://thegrid.ai/gkersz/16hours-was-created-to-motivate-its-readers-to-go-beyond-onl/index.html</link>
+            <guid isPermaLink="false">d40cd9f0-dfe7-45f4-bba9-e3d34c052a0a</guid>
+            <pubDate>Sun, 12 Jun 2016 12:09:46 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[No title]]></title>
             <description><![CDATA[<img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/5b6f6452-a1ac-43ca-8376-478c430c980e.jpg" alt="" title="">]]></description>
@@ -67,13 +74,6 @@
             <description><![CDATA[<img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/5f361aeb-9de1-43c6-ac33-32373824ecbd.jpg" alt="" title="">]]></description>
             <link>https://thegrid.ai/gkersz/8453649c-e6c4-427b-abc6-3fec513a4237/index.html</link>
             <guid isPermaLink="false">8453649c-e6c4-427b-abc6-3fec513a4237</guid>
-            <pubDate>Sun, 12 Jun 2016 12:08:06 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[No title]]></title>
-            <description><![CDATA[<img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/3c382535-dd81-47b8-89bd-e8111b875750.jpg" alt="" title="">]]></description>
-            <link>https://thegrid.ai/gkersz/176a9881-b892-4e05-bc62-9b6b871fbeb7/index.html</link>
-            <guid isPermaLink="false">176a9881-b892-4e05-bc62-9b6b871fbeb7</guid>
             <pubDate>Sun, 12 Jun 2016 12:08:06 GMT</pubDate>
         </item>
     </channel>
