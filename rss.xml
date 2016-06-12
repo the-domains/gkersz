@@ -4,8 +4,15 @@
         <description><![CDATA[Gaja Kersz Contemporary Photography]]></description>
         <link>https://thegrid.ai/gkersz/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Sun, 12 Jun 2016 12:10:30 GMT</lastBuildDate>
+        <lastBuildDate>Sun, 12 Jun 2016 12:10:49 GMT</lastBuildDate>
         <atom:link href="https://thegrid.ai/gkersz/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[No title]]></title>
+            <description><![CDATA[<img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/aa3f803d-12fa-4e33-860f-55b9b03229fa.jpg" alt="" title="">]]></description>
+            <link>https://thegrid.ai/gkersz/5f220f6e-74c8-489e-a8fa-9a9d1d710ab2/index.html</link>
+            <guid isPermaLink="false">5f220f6e-74c8-489e-a8fa-9a9d1d710ab2</guid>
+            <pubDate>Sun, 12 Jun 2016 12:10:45 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[Gaja featured in IYL album of 2012]]></title>
             <description><![CDATA[<article><h1>Gaja featured in IYL album of 2012</h1><p>If You Leave is a album of contemporary photography, snapshots of a journey made by wanderers who study the mysterious yet uncannily peaceful feeling of desolation and loneliness. </p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/6d0ab3ebde8d065ffd380c8510f264bf370a78b3.jpg"></article>]]></description>
@@ -68,13 +75,6 @@
             <link>https://the-grid-user-content.s3-us-west-2.amazonaws.com/64e63f21-dc73-4584-b989-f244ab2758d0.jpg</link>
             <guid isPermaLink="false">200e82da-9b2b-44f3-aaa0-c42b22c055e9</guid>
             <pubDate>Sun, 12 Jun 2016 12:08:53 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[No title]]></title>
-            <description><![CDATA[<img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/e98a3dea-deae-438b-9cb6-dcd68316c709.jpg" alt="" title="">]]></description>
-            <link>https://thegrid.ai/gkersz/040c836b-e693-4ed1-99d3-9da75c0a8064/index.html</link>
-            <guid isPermaLink="false">040c836b-e693-4ed1-99d3-9da75c0a8064</guid>
-            <pubDate>Sun, 12 Jun 2016 12:08:40 GMT</pubDate>
         </item>
     </channel>
 </rss>
